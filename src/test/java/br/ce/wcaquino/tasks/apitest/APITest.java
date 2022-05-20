@@ -6,8 +6,7 @@ import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
+
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
